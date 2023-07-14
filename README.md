@@ -3,7 +3,7 @@
 # React-Native-ChatGPT-App
 Expo app built to interact with chatgpt using react-native
 
-#Requirements
+# Requirements
 - API key from openai | https://platform.openai.com/account/api-keys
 - React | https://www.npmjs.com/package/react
 - React-native | https://www.npmjs.com/package/react-native
